@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**jakalkhalili/jakalkhalili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Software/DevOps Engineer** at **VirtusLab** company, working in area of cloud-native technologies.
 
-Here are some ideas to get you started:
+### Skills
+* **Infrastructure provisioning**: *Terraform*
+* **Software Engineering:** *Go*, *Scala* functional(still learning) + oop, *Java*, *Rust* (still learning, but I know how to deal with borrowing checker hell)
+* **Cloud Engineering:** mostly *Microsoft Azure*, but also I worked and deployed some private projects on *Amazon Web Services* and *Google Cloud Platform*
+* **Big Data:** *Apache Hadoop* - wrote some MapReduce's, but I don't have commercial experience with this technology. Also, I would like to learn *Apache Spark* which is more popular and recommended solution nowadays. 
+* **DevOps:** I'm famillar with *Infrastructure as a Code* and *CI/CD*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Other
+* I'm one of the [Jenkins Kubernetes Operator](https://github.com/jenkinsci/kubernetes-operator) maintainers.
