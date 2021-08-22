@@ -5,8 +5,8 @@ I am **Software/DevOps Engineer** at **VirtusLab** company, working in area of c
 ### Skills
 * **Infrastructure provisioning**: *Terraform*, *Pulumi*
 * **Software Engineering:** mostly *Go*, *Scala*, *Java*, *Rust*
-* **Cloud Engineering:** mostly *Microsoft Azure* and *Google Cloud Platform*, but also I worked and deployed some private projects on *Amazon Web Services*
-* **Big Data:** *Apache Hadoop* - wrote some MapReduce's, but I don't have commercial experience with this technology. Also, I plan to learn and use *Apache Spark* which is more popular and recommended solution nowadays. 
+* **Cloud Engineering:** mostly *Microsoft Azure* and *Google Cloud Platform*, but also I worked on some private projects using *Amazon Web Services*
+* **Big Data:** *Apache Hadoop* - wrote some MapReduce's, but I don't have commercial experience with this technology.
 * **DevOps:** I'm famillar with *Infrastructure as a Code* and *CI/CD*.
 * **Cloud Native Technologies** - On daily basis I work with **Kubernetes** software, but I'm also famillar with other technologies from [Cloud-Native landspace](https://landscape.cncf.io/).
 
