@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am **Software/DevOps Engineer** at **VirtusLab** company, working in area of cloud-native technologies.
+I am **Software/Cloud Engineer** at **VirtusLab** company, working in area of cloud-native technologies.
 
 ### Skills
 * **Infrastructure provisioning**: *Terraform*, *Pulumi*
