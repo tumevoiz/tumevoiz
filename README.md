@@ -10,5 +10,5 @@ I am **Software/Cloud Engineer** at **VirtusLab** company, working in area of cl
 * **DevOps:** I'm famillar with *Infrastructure as a Code* and *CI/CD*.
 * **Cloud Native Technologies** - On daily basis I work with **Kubernetes** software, but I'm also famillar with other technologies from [Cloud-Native landspace](https://landscape.cncf.io/).
 
-### Contribution to OSS
+### Notable work
 * Maintainer of [Jenkins Kubernetes Operator](https://github.com/jenkinsci/kubernetes-operator).
